@@ -15,7 +15,7 @@ Instrumented code writes name and stack trace of current thread to `System.err`.
 
 
 ```
-git clone git@bitbucket.org:itiapchenko/shutdown-agent.git
+git clone git@github.com:itya/shutdown-agent.git
 cd shutdown-agent
 mvn clean package
 ```
