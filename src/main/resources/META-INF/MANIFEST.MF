@@ -1,0 +1,3 @@
+Premain-Class: com.atlassian.itiapchenko.shutdown.agent.Agent
+Can-Retransform-Classes: true
+Boot-Class-Path: shutdown-agent.jar
